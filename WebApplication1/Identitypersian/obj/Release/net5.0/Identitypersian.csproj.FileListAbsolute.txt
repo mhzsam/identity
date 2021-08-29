@@ -1,0 +1,12 @@
+C:\Users\Mhzsam\Desktop\Identity\WebApplication1\Identitypersian\bin\Release\net5.0\Identitypersian.deps.json
+C:\Users\Mhzsam\Desktop\Identity\WebApplication1\Identitypersian\bin\Release\net5.0\Identitypersian.dll
+C:\Users\Mhzsam\Desktop\Identity\WebApplication1\Identitypersian\bin\Release\net5.0\ref\Identitypersian.dll
+C:\Users\Mhzsam\Desktop\Identity\WebApplication1\Identitypersian\bin\Release\net5.0\Identitypersian.pdb
+C:\Users\Mhzsam\Desktop\Identity\WebApplication1\Identitypersian\obj\Release\net5.0\Identitypersian.csproj.AssemblyReference.cache
+C:\Users\Mhzsam\Desktop\Identity\WebApplication1\Identitypersian\obj\Release\net5.0\Identitypersian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhzsam\Desktop\Identity\WebApplication1\Identitypersian\obj\Release\net5.0\Identitypersian.AssemblyInfoInputs.cache
+C:\Users\Mhzsam\Desktop\Identity\WebApplication1\Identitypersian\obj\Release\net5.0\Identitypersian.AssemblyInfo.cs
+C:\Users\Mhzsam\Desktop\Identity\WebApplication1\Identitypersian\obj\Release\net5.0\Identitypersian.csproj.CoreCompileInputs.cache
+C:\Users\Mhzsam\Desktop\Identity\WebApplication1\Identitypersian\obj\Release\net5.0\Identitypersian.dll
+C:\Users\Mhzsam\Desktop\Identity\WebApplication1\Identitypersian\obj\Release\net5.0\ref\Identitypersian.dll
+C:\Users\Mhzsam\Desktop\Identity\WebApplication1\Identitypersian\obj\Release\net5.0\Identitypersian.pdb
